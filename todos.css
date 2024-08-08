@@ -1,0 +1,89 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Arimo", sans-serif;
+}
+
+header {
+    margin-top: 60px;
+}
+
+#principal  {
+    width: 102px;
+    height: 89px;
+    font-family: "Dancing Script", cursive;
+    font-size: 31px;
+    text-align: center;
+
+}
+
+.botao {
+    display: flex;
+}
+
+h1 {
+   font-family: "Dancing Script", cursive;
+   width: 609px;
+   height: 100px;
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+}
+
+img {
+    width: 1440px;
+    height: 877px;
+}
+
+.principal {
+    display: flex;
+    align-items: center;
+    width: 110px;
+    height: 100px;
+    background-color: #606C38;
+    border-radius: 999px;
+    margin-top: -34px;
+}
+
+a {
+    color: #E0E0DC;
+    font-family: Trocchi;
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 217px;
+    height: 58px;
+    background-color: #606C38;
+    padding: 10px;
+    margin-left: 45px;
+    border-radius: 70px;
+}
+
+.imgss {
+    display: flex;
+}
+
+.container {
+    position: relative;
+    width: 300px; /* Ajuste conforme necessário */
+}
+
+.imagem {
+    width: 100%; /* Ajusta a imagem para caber no container */
+}
+
+.texto {
+    position: absolute;
+ /* Ajuste a posição vertical conforme necessário */
+    left: 20px; /* Ajuste a posição horizontal conforme necessário */
+    color: black; /* Cor do texto */
+    font-size: 24px; /* Tamanho da fonte */
+    z-index: 1; 
+    height: 80px;
+}
