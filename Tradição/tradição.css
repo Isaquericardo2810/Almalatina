@@ -1,0 +1,161 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Arimo", sans-serif;
+}
+
+body {
+    background-color: #E0E0DC;
+}
+
+header {
+    margin-top: 60px;
+}
+
+#principal  {
+    width: 102px;
+    height: 89px;
+    font-family: "Dancing Script", cursive;
+    font-size: 31px;
+    text-align: center;
+}
+
+.botao {
+    display: flex;
+    padding: 10px;
+}
+
+h1 {
+   font-family: "Trocchi", serif;
+   position: absolute;
+   background-color: #283618;
+   margin-top: 125px;
+   display: block;
+   padding-right: 180px; 
+   color: #FF8719;
+   font-weight: 500;
+   padding-left: 150px;
+   padding-top: 15px;
+   font-size: 50px;
+}
+
+.principal {
+    display: flex;
+    align-items: center;
+    width: 110px;
+    height: 100px;
+    background-color: #606C38;
+    border-radius: 999px;
+    margin-top: -34px;
+}
+
+a {
+    color: #E0E0DC;
+    font-family: Trocchi;
+    font-size: 40px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+
+
+.paises {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 217px;
+    height: 58px;
+    background-color: #606C38;
+    padding: 10px;
+    margin-left: 45px;
+    border-radius: 70px;
+    text-decoration: none;
+}
+.quiz {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 217px;
+    height: 58px;
+    background-color: #606C38;
+    padding: 10px;
+    margin-left: 45px;
+    border-radius: 70px;
+    text-decoration: none;
+}
+.cultura {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 217px;
+    height: 58px;
+    background-color: #606C38;
+    padding: 10px;
+    margin-left: 45px;
+    border-radius: 70px;
+    text-decoration: none;
+}
+.tradicao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 217px;
+    height: 58px;
+    background-color: #606C38;
+    padding: 10px;
+    margin-left: 45px;
+    border-radius: 70px;
+    color: #FF8719;
+}
+.comidas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 217px;
+    height: 58px;
+    background-color: #606C38;
+    padding: 10px;
+    margin-left: 45px;
+    border-radius: 70px;
+    text-decoration: none;
+}
+
+
+
+.t{
+    position: absolute;
+    display: flex;
+    padding-top: 200px;
+    padding-right: 650px;
+    padding-left: 50px;
+    font-size: large;
+}
+
+.b{
+    position: absolute;
+    display: flex;
+    padding-top: 300px;
+    padding-right: 650px;
+    padding-left: 50px;
+    font-size: large;
+}
+
+.p {
+    position: absolute;
+    display: flex;
+    padding-top: 400px;
+    padding-right: 650px;
+    padding-left: 50px;
+    font-size: large;
+} esquerda
+
+.w { 
+    position: absolute;
+    display: flex;
+    padding-top: 200px;
+    padding-right: 50px;
+    padding-left: 850px;
+    font-size: large;
+}  /*DIRETIA/*
