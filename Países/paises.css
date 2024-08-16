@@ -72,70 +72,9 @@ a {
     text-decoration: none;
 }
 
-.a{
+.principais {
     position: absolute;
     display: flex;
-    padding-top: 200px;
-    padding-right: 650px;
-    padding-left: 50px;
-    font-size: large;
-}
-
-.b {
-    position: absolute;
-    display: flex;
-    padding-top: 300px;
-    padding-right: 650px;
-    padding-left: 50px;
-    font-size: large;
-}
-
-.c {
-    position: absolute;
-    display: flex;
-    padding-top: 400px;
-    padding-right: 650px;
-    padding-left: 50px;
-    font-size: large;
-}
-
-.d {
-    position: absolute;
-    display: flex;
-    padding-top: 550px;
-    padding-right: 650px;
-    padding-left: 50px;
-    font-size: large;
-}
-
-.e {
-    position: absolute;
-    display: flex;
-    padding-top: 195px;
-    padding-right: 50px;
-    padding-left: 950px;
-    font-size: large;
-}
-
-.f {
-    position: absolute;
-    display: flex;
-    padding-top: 350px;
-    padding-right: 50px;
-    padding-left: 950px;
-    font-size: large;
-}
-
-.g {
-    position: absolute;
-    display: flex;
-    padding-top: 550px;
-    padding-right: 50px;
-    padding-left: 950px;
-    font-size: large;
-}
-
-.comidas {
-    padding-left: 950px;
-    margin-top: 650px;
+    margin-top: 300px;
+    margin-left: 700px;
 }
