@@ -37,7 +37,7 @@ h1 {
     color: #FF8719;
     font-weight: 500;
     padding-left: 150px;
-    padding-top: 15px;
+    padding-top: 10px;
     font-size: 50px;
  }
 
@@ -84,7 +84,7 @@ a {
 .b {
     position: absolute;
     display: flex;
-    padding-top: 300px;
+    padding-top: 350px;
     padding-right: 650px;
     padding-left: 50px;
     font-size: large;
@@ -93,7 +93,7 @@ a {
 .c {
     position: absolute;
     display: flex;
-    padding-top: 400px;
+    padding-top: 500px;
     padding-right: 650px;
     padding-left: 50px;
     font-size: large;
@@ -102,7 +102,7 @@ a {
 .d {
     position: absolute;
     display: flex;
-    padding-top: 550px;
+    padding-top: 650px;
     padding-right: 650px;
     padding-left: 50px;
     font-size: large;
@@ -113,29 +113,39 @@ a {
     display: flex;
     padding-top: 195px;
     padding-right: 50px;
-    padding-left: 950px;
+    padding-left: 800px;
     font-size: large;
 }
 
 .f {
     position: absolute;
     display: flex;
-    padding-top: 350px;
-    padding-right: 50px;
-    padding-left: 950px;
+    padding-top: 800px;
+    padding-right: 650px;
+    padding-left: 50px;
     font-size: large;
 }
 
 .g {
     position: absolute;
     display: flex;
-    padding-top: 550px;
+    padding-top: 390px;
     padding-right: 50px;
-    padding-left: 950px;
+    padding-left: 800px;
+    font-size: large;
+}
+
+.h {
+    position: absolute;
+    display: flex;
+    padding-top: 600px;
+    padding-right: 50px;
+    padding-left: 800px;
     font-size: large;
 }
 
 .comidas {
-    padding-left: 950px;
+    padding-left: 800px;
     margin-top: 650px;
+    padding-top: 40px;
 }

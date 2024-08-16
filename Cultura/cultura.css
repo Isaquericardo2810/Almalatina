@@ -33,11 +33,11 @@ h1 {
     background-color: #283618;
     margin-top: 125px;
     display: block;
-    padding-right: 180px; 
+    padding-right: 170px; 
     color: #FF8719;
     font-weight: 500;
     padding-left: 150px;
-    padding-top: 15px;
+    padding-top: 10px;
     font-size: 50px;
  }
 
@@ -84,7 +84,7 @@ a {
 .b {
     position: absolute;
     display: flex;
-    padding-top: 300px;
+    padding-top: 370px;
     padding-right: 650px;
     padding-left: 50px;
     font-size: large;
@@ -93,7 +93,7 @@ a {
 .c {
     position: absolute;
     display: flex;
-    padding-top: 400px;
+    padding-top: 570px;
     padding-right: 650px;
     padding-left: 50px;
     font-size: large;
@@ -102,7 +102,7 @@ a {
 .d {
     position: absolute;
     display: flex;
-    padding-top: 550px;
+    padding-top: 750px;
     padding-right: 650px;
     padding-left: 50px;
     font-size: large;
@@ -113,29 +113,29 @@ a {
     display: flex;
     padding-top: 195px;
     padding-right: 50px;
-    padding-left: 950px;
+    padding-left: 770px;
     font-size: large;
 }
 
 .f {
     position: absolute;
     display: flex;
-    padding-top: 350px;
+    padding-top: 365px;
     padding-right: 50px;
-    padding-left: 950px;
+    padding-left: 770px;
     font-size: large;
 }
 
 .g {
     position: absolute;
     display: flex;
-    padding-top: 550px;
+    padding-top: 555px;
     padding-right: 50px;
-    padding-left: 950px;
+    padding-left: 770px;
     font-size: large;
 }
 
 .cultura {
-    padding-left: 850px;
+    padding-left: 750px;
     margin-top: 650px;
 }

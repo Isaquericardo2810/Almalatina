@@ -145,7 +145,7 @@ a {
 .c {
     position: absolute;
     display: flex;
-    padding-top: 400px;
+    padding-top: 410px;
     padding-right: 650px;    
     padding-left: 50px;
     font-size: large;
@@ -156,14 +156,14 @@ a {
     display: flex;
     padding-top: 185px;
     padding-right: 50px;
-    padding-left: 950px;
+    padding-left: 850px;
     font-size: large;
 }
 
 .e {
     position: absolute;
     display: flex;
-    padding-top: 550px;
+    padding-top: 540px;
     padding-right: 650px;    
     padding-left: 50px;
     font-size: large;
@@ -175,16 +175,16 @@ a {
     display: flex;
     padding-top: 750px;
     padding-right: 50px;
-    padding-left: 950px;
+    padding-left: 850px;
     font-size: large;
 }
 
 .carnaval {
-    margin-top: 750px;
+    margin-top: 800px;
     padding-left: 50px;
 }
 
 .mortos {
-    margin-top: -750px;
-    padding-left: 950px;
+    margin-top: -800px;
+    padding-left: 850px;
 }

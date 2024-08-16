@@ -5,8 +5,8 @@
     font-family: "Arimo", sans-serif;
 }
 
-body {
-    background-color: #E0E0DC;
+header {
+    margin-top: 60px;
 }
 
 body {
@@ -136,4 +136,3 @@ a {
     margin-right: -618px;
     border-radius: 30px;
 }
-
