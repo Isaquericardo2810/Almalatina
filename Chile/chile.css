@@ -57,13 +57,12 @@ header {
  .politica {
     font-family: "Trocchi", serif;
     position: absolute;
-    margin-top: 240px;
+    margin-top: 300px;
     display: block;
     padding-right: 180px; 
     color: #FF8719;
     font-weight: -1000px;
     padding-left: 90px;
-    padding-top: 15px;
     font-size: 50px;
  }
 
@@ -99,11 +98,10 @@ header {
 
 .linha2 {
     position: absolute;
-    margin-top: 575px;
+    margin-top: 570px;
     border-bottom: 1px solid #000000;
     width: 40%;
-    right: 800px;
-
+    right: 890px;
 }
 
 .linha3 {
@@ -156,19 +154,18 @@ a {
 .a {
     position: absolute;
     display: flex;
-    padding-top: 200px;
+    padding-top: 110px;
     padding-right: 850px;
     padding-left: 50px;
     font-size: large;
-    margin-top: -190px;
-    text-align: left;
+    margin-top: -100px;
 }
 
 .b {
     position: absolute;
     display: flex;
     padding-top: 200px;
-    padding-right: 750px;
+    padding-right: 850px;
     padding-left: 50px;
     font-size: large;
     margin-top: 380px;
@@ -177,7 +174,7 @@ a {
 .c {
     position: absolute;
     display: flex;
-    padding-top: 15px;
+    padding-top: 40px;
     padding-right: 50px;
     padding-left: 800px;
     font-size: large;
@@ -194,20 +191,18 @@ a {
 
 img {
     display: flex;
-    padding-top: 200px;
+    margin-top: 220px;
     padding-left: 50px;
 
 }
 
 .bandeira {
-    padding-left: 830px;
-    margin-top: -200px;
-    height: 435px;
+    padding-left: 800px;
+    margin-top: -10px;
+    height: 230px;
 }
 
 .politica {
-    margin-top: 500px;
-
-
+    margin-top: 510px;
 }
 

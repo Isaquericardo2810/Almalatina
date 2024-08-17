@@ -102,7 +102,7 @@ header {
     margin-top: 575px;
     border-bottom: 1px solid #000000;
     width: 40%;
-    right: 800px;
+    right: 900px;
 
 }
 
@@ -116,7 +116,7 @@ header {
 }
 .linha4 {
     position: absolute;
-    padding-top: 1000px;
+    padding-top: 275px;
     border-bottom: 1px solid #000000;
     width: 40%;
     left: 800px;
@@ -157,7 +157,7 @@ a {
     position: absolute;
     display: flex;
     padding-top: 200px;
-    padding-right: 650px;
+    padding-right: 850px;
     padding-left: 50px;
     font-size: large;
     margin-top: -190px;
@@ -167,7 +167,7 @@ a {
     position: absolute;
     display: flex;
     padding-top: 200px;
-    padding-right: 650px;
+    padding-right: 850px;
     padding-left: 50px;
     font-size: large;
     margin-top: 380px;
@@ -199,13 +199,13 @@ img {
 }
 
 .bandeira {
-    padding-left: 80px;
-    width: 760%;
+    padding-left: 810px;
+    margin-top: -210px;
+    height: 450px;
 }
 
 .politica {
     margin-top: 500px;
-
 
 }
 

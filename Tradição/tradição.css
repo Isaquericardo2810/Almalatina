@@ -128,7 +128,7 @@ a {
     position: absolute;
     display: flex;
     padding-top: 200px;
-    padding-right: 650px;
+    padding-right: 800px;
     padding-left: 50px;
     font-size: large;
 }
@@ -137,7 +137,7 @@ a {
     position: absolute;
     display: flex;
     padding-top: 300px;
-    padding-right: 650px;
+    padding-right: 800px;
     padding-left: 50px;
     font-size: large;
 }
@@ -146,7 +146,7 @@ a {
     position: absolute;
     display: flex;
     padding-top: 410px;
-    padding-right: 650px;    
+    padding-right: 800px;    
     padding-left: 50px;
     font-size: large;
 } 
@@ -156,7 +156,7 @@ a {
     display: flex;
     padding-top: 185px;
     padding-right: 50px;
-    padding-left: 850px;
+    padding-left: 800px;
     font-size: large;
 }
 
@@ -164,7 +164,7 @@ a {
     position: absolute;
     display: flex;
     padding-top: 540px;
-    padding-right: 650px;    
+    padding-right: 800px;    
     padding-left: 50px;
     font-size: large;
     line-height: 125%;
