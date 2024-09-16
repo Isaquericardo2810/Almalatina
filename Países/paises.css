@@ -41,6 +41,7 @@ h1 {
     font-size: 50px;
  }
 
+
 .principal {
     display: flex;
     align-items: center;
@@ -73,20 +74,19 @@ a {
 }
 
 .principais {
-    position: absolute;
-    display: flex;
-    margin-top: 300px;
-    margin-left: 700px;
+    margin-top: 200px;
+    margin-left: 620px;
+    font-size: 50px;
 }
 
-.grid-container {
-    margin-top: 220px;
+.Botoes_paises {
+    margin-top: 700px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 10px;
+    gap: 30px;
   }
 
-  .grid-item {
+  .grid {
     background-color: #606C38;
     color: white;
     padding: 10px;
@@ -94,4 +94,112 @@ a {
     text-align: center;
     border-radius: 12px;
     text-decoration: none;
+    margin-top: 1px;
   }
+
+  .quadrado {
+    background-color: #fff;
+    width: 350px;
+    margin-top: -990px;
+    padding: 180px;
+    margin-left: 105px;
+    height: 450px;
+  }
+
+  .escrita {
+    font-family: "Trocchi";
+    position: absolute;
+    margin-left: 130px;
+    width: 353px;
+    margin-top: -190px;
+    padding-right: 20px;
+    font-size: large;
+}
+
+.brasil {
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    margin-left: 190px;
+    margin-top: -890px;
+}
+
+.brasilnome {
+    position: absolute;
+    margin-top: -980px;
+    margin-left: 235px;
+    font-size: 23px;
+    font-family: Trocchi;
+    font-weight: lighter;
+}
+
+  .quadrado2 {
+    background-color: #fff;
+    width: 350px;
+    margin-top: -450px;
+    padding: 180px;
+    margin-left: 550px;
+    height: 450px;
+  }
+
+  .escrita2 {
+    font-family: "Trocchi";
+    position: absolute;
+    margin-left: 570px;
+    width: 353px;
+    margin-top: -190px;
+    padding-right: 20px;
+    font-size: large;
+}
+
+.argentina {
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    margin-left: 640px;
+    margin-top: -890px;
+}
+
+.argentinanome {
+    position: absolute;
+    margin-top: -980px;
+    margin-left: 650px;
+    font-size: 23px;
+    font-family: Trocchi;
+    font-weight: lighter;
+}
+
+.quadrado3 {
+    background-color: #fff;
+    width: 252px;
+    margin-top: -450px;
+    padding: 180px;
+    margin-left: 1000px;
+    height: 450px;
+}
+
+.mexico {
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    margin-top: -890px;
+    margin-left: 1085px;
+}
+
+.mexiconome {
+    position: absolute;
+    margin-top: -980px;
+    margin-left: 1125px;
+    font-size: 23px;
+    font-family: Trocchi;
+    font-weight: lighter;
+}
+
+.escrita3 {
+    font-family: "Trocchi";
+    margin-left: 1030px;
+    width: 353px;
+    margin-top: -190px;
+    padding-right: 20px;
+    font-size: large;
+}
